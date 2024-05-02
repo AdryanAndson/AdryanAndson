@@ -8,7 +8,7 @@ Sou Adryan Andson da Silva Almeida, um entusiasta de análise e desenvolvimento 
 
 📊 **Estatísticas no GitHub:**
 <a href="https://github.com/AdryanAndson">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AdryanAndson&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0,00C8C8,0000FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
 📊 **Linguagens utilizadas no GitHub:**
